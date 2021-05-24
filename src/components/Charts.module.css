@@ -1,0 +1,28 @@
+.button_container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.button {
+  width: 150px;
+  height: 40px;
+  border: 2px solid #f55c47;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #f55c47;
+  margin: 20px 50px;
+  cursor: pointer;
+}
+
+.button:hover{
+    background-color: #f55c47;
+    color: #fff;
+    transition: all 0.4s ease;
+}
+
+.container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 50px auto;
+}
