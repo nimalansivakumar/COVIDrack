@@ -1,6 +1,6 @@
 # COVIDrack
 
-## COVIDrack tracks the number of COVID cases all around the globe showing latest data live.
+COVIDrack tracks the number of COVID cases all around the globe showing latest data live.
 
 # Features
 - 💾 Showing accurate data
